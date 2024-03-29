@@ -1,4 +1,5 @@
-### Hi there 👋
+### 안녕하세요. 신입 프론트엔드 개발자가 되기위해 현재 공부중에 있으며 집중하고 세세하게, 성장하는 신입개발자입니다.
+
 
 <!--
 **jinyeongjang/jinyeongjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
