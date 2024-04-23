@@ -1,10 +1,6 @@
 ## 프론트엔드 개발자가 되기위한 여정. <br> My journey to becoming a Frontend Developer.
-**"지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."** <br>
 OZ coding school - Frontend 3기 <br>
-
-안녕하세요. 프론트엔드 개발자가 되기위해
-현재 공부중에 있으며 집중하고 세세하게, 성장하는 신입개발자입니다.
-
+**"지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."**
 <br><br>
 
 ## Develop Position.
@@ -86,8 +82,8 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 04. 03. | [Chapter2 : 4~5 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter2.%2004~05) |
 | 2024. 04. 04. | [miniProject: lotto 번호 추첨 게임](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/03.%20lotto) |
 | 2024. 04. 05. | [Chapter3 : 1~2 Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02) |
-| 2024. 04. . | (진행중) miniProject: 몬스터 잡기 게임 리뉴얼 |
-| 2024. 04. .  | (진행중) Board앱 만들기 |
+| 2024. 04. . | miniProject: 몬스터 잡기 게임 리뉴얼 |
+| 2024. 04. . | Board앱 만들기 |
 | 2024. 04. 11.  | [TodoList 만들기](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/05.%20todolist) |
 | 2024. 04. 11.  | [TodoList 리뉴얼](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/06.%20todolist_renewal) |
 | 2024. 04. 11.  | [Chapter3 : function Challenge](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/Challenge/Chapter3.%2001~02)  |
@@ -102,6 +98,9 @@ OZ coding school - Frontend 3기 <br>
 | 2024. 04. 15.  | [lotto 번호 추첨 & 번호 자동생성 기능](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/14.%20lotto3) |
 | 2024. 04. 17.  | [사용자 정보 관리](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/15.%20user_management) |
 | 2024. 04. 17.  | [사용자 정보 관리 - 배열](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/16.%20user_management2) |
+| 2024. 04. 23.  | [강아지 사전 Gallery](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/17.%20pet) |
+| 2024. 04. 23.  | [miniproject: TodoList ver.2](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/18.%20todolist_renewal2) |
+
 
 <br>
 
@@ -133,4 +132,5 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간 |  |
 |:---|:---|
-| 2024. 04. 17. | 01. 
+| 2024. 04. | 01 ~ 03.
+| 2024. 04. 24. | 04 ~ 08.
