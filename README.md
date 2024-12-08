@@ -20,7 +20,7 @@ OZ coding school - Frontend 3기 <br>
 
 ## Develop Stacks.
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/zustand-000000?style=for-the-badge&logo=zustand&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
 <br>
 
@@ -144,14 +144,14 @@ OZ coding school - Frontend 3기 <br>
 
 ## <img src= "https://velog.velcdn.com/images/jinyeong0448/post/75918136-d457-4dba-b905-1e8d012470d5/image.svg" width="20" height="20"/> Node.js
 
-| 기간      |     |
-| :-------- | :-- |
-| 2024. 04. |     |
+| 기간         |                                                                                            |
+| :----------- | :----------------------------------------------------------------------------------------- |
+| 2024. 05. 02 | [node.js 환경설정](https://github.com/jinyeongjang/FE_study/tree/main/05_nodejs/Chapter1.) |
 
 <br>
 
 ## <img src= "https://velog.velcdn.com/images/jinyeong0448/post/59a0ecd5-8d6d-42f1-b0a3-79657460ac53/image.svg" width="20" height="20"/> React
 
-| 기간      |     |
-| :-------- | :-- |
-| 2024. 04. |     |
+| 기간         |                                                                                                                                                |
+| :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024. 05. 02 | [miniproject: TodoList ver.2](https://github.com/jinyeongjang/FE_study/tree/main/03_JavaScript/JavaScript_miniProject/18.%20todolist_renewal2) |
