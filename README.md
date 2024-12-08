@@ -1,7 +1,7 @@
 ## 프론트엔드 개발자가 되기위한 여정. <br> My journey to becoming a Frontend Developer.
 
 OZ coding school - Frontend 3기 <br>
-**"끊임없이 성장하고 사용자 경험을 먼저 생각하는 프론트엔드 개발자입니다."**
+**"지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."**
 <br><br>
 
 ## 포트폴리오
@@ -23,6 +23,16 @@ OZ coding school - Frontend 3기 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
 <br>
+
+## 프로젝트
+
+| 기간          |                                                                                                                        |
+| :------------ | :--------------------------------------------------------------------------------------------------------------------- |
+| 2024. 04. 08~ | [밥피엔스-당신의 미각을 깨우는 맞춤형 메뉴, 설렘](https://www.babpiens.com/)                                           |
+| 2024. 06.     | [영화 검색 웹 애플리케이션](https://mini-project-01-seven.vercel.app/)                                                 |
+| 2024. 03. 22. | [포도리더스 일정관리](https://pdo24-schedule-management.vercel.app/)                                                   |
+| 2024. 12.     | [포트폴리오](https://jinyeongjang-portfolio.vercel.app/)                                                               |
+| 2024. 12.     | [12월 개발예정 홈페이지(매장용 POS 단말기 사업 홈페이지)-개발계획수립단계](https://jinyeongjang-portfolio.vercel.app/) |
 
 ## Posts.
 
