@@ -1,7 +1,7 @@
 ## 프론트엔드 개발자가 되기위한 여정. <br> My journey to becoming a Frontend Developer.
 
 OZ coding school - Frontend 3기 <br>
-**"지속적으로 성장하고 문제의 원인을 분석하여 끝까지 해결하려는 개발자."**
+**"끊임없이 성장하고 사용자 경험을 먼저 생각하는 프론트엔드 개발자입니다."**
 <br><br>
 
 ## 포트폴리오
