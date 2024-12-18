@@ -26,13 +26,13 @@ OZ coding school - Frontend 3기 <br>
 
 ## 프로젝트
 
-| 기간                          |                                                                                                                        |
-| :---------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| 2024. 08~ 유지보수 진행중     | [밥피엔스-당신의 미각을 깨우는 맞춤형 메뉴, 설렘](https://www.babpiens.com/)                                           |
-| 2024. 06~ 유지보수 진행중     | [영화 검색 웹 애플리케이션](https://mini-project-01-seven.vercel.app/)                                                 |
-| 2024. 03. 22~ 유지보수 진행중 | [포도리더스 일정관리](https://pdo24-schedule-management.vercel.app/)                                                   |
-| 2024. 12.                     | [포트폴리오](https://jinyeongjang-portfolio.vercel.app/)                                                               |
-| 2024. 12.                     | [12월 개발예정 홈페이지(매장용 POS 단말기 사업 홈페이지)-개발계획수립단계](https://jinyeongjang-portfolio.vercel.app/) |
+| 기간                          |                                                                              |
+| :---------------------------- | :--------------------------------------------------------------------------- |
+| 2024. 08~ 유지보수 진행중     | [밥피엔스-당신의 미각을 깨우는 맞춤형 메뉴, 설렘](https://www.babpiens.com/) |
+| 2024. 06~ 유지보수 진행중     | [영화 검색 웹 애플리케이션](https://mini-project-01-seven.vercel.app/)       |
+| 2024. 03. 22~ 유지보수 진행중 | [포도리더스 일정관리](https://pdo24-schedule-management.vercel.app/)         |
+| 2024. 12~                     | [포트폴리오](https://jinyeongjang-portfolio.vercel.app/)                     |
+| 2024. 12~                     | [매장용 POS 단말기 사업 홈페이지](https://d2b5qs8coxe0hq.cloudfront.net/)    |
 
 ## Posts.
 
