@@ -33,7 +33,7 @@ OZ coding school - Frontend 3기 <br>
 | 2024.06 ~ 2025.04.03        | [영화 검색 웹 애플리케이션](https://mini-project-01-seven.vercel.app/)                             |
 | 2024.03.22~ 유지보수 진행중 | [포도리더스 일정관리](https://pdo24-schedule-management.vercel.app/)                               |
 | 2024. 12~                   | [포트폴리오](https://jinyeongjang-portfolio.vercel.app/)                                           |
-| 2024. 12~ 유지보수 진행중   | [매장용 POS 단말기 사업 홈페이지](https://d2b5qs8coxe0hq.cloudfront.net/)                          |
+| 2024. 12~ 유지보수 진행중   | [이레페이-매장용 POS 단말기 사업 홈페이지](https://www.irehpay.com/)                          |
 
 ## Posts.
 
