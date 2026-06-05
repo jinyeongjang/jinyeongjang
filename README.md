@@ -28,12 +28,12 @@ OZ coding school - Frontend 3기 <br>
 
 | 기간                        |                                                                                                    |
 | :-------------------------- | :------------------------------------------------------------------------------------------------- |
-| 2025. 01~ 유지보수 진행중   | [포도리더스 다이닝 :: 미리내 / 포도리더스:: 말씀을 더 가까이](https://podoreaders2025.vercel.app/) |
-| 2024. 08 ~ 2024.12.10       | [밥피엔스-당신의 미각을 깨우는 맞춤형 메뉴, 설렘](https://www.babpiens.com/)                       |
-| 2024.06 ~ 2025.04.03        | [영화 검색 웹 애플리케이션](https://mini-project-01-seven.vercel.app/)                             |
-| 2024.03.22~ 유지보수 진행중 | [포도리더스 일정관리](https://pdo24-schedule-management.vercel.app/)                               |
-| 2024. 12~                   | [포트폴리오](https://jinyeongjang-portfolio.vercel.app/)                                           |
-| 2024. 12~ 유지보수 진행중   | [이레페이-매장용 POS 단말기 사업 홈페이지](https://www.irehpay.com/)                          |
+| 2025. 01 ~ 유지보수 진행중  | [포도리더스 다이닝 :: 미리내 / 포도리더스:: 말씀을 더 가까이](https://podoreaders2025.vercel.app/) |
+| 2024. 08 ~ 2024.12.10      | [밥피엔스-당신의 미각을 깨우는 맞춤형 메뉴, 설렘](https://babpiens2024.vercel.app/)                       |
+| 2024.06 ~ 2025.04.03.      | [영화 검색 웹 애플리케이션](https://mini-project-01-seven.vercel.app/)                             |
+| 2024.03.22 ~ 2024.07.06.   | [포도리더스 일정관리](https://pdo24-schedule-management.vercel.app/)                               |
+| 2024. 12 ~                 | [포트폴리오](https://jinyeongjang-portfolio.vercel.app/)                                           |
+| 2024. 12 ~ 유지보수 진행중  | [이레페이-매장용 POS 단말기 사업 홈페이지](https://www.irehpay.com/)                          |
 
 ## Posts.
 
